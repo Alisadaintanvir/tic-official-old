@@ -1,1 +1,1 @@
-export const API = `https://ticlimited.com.bd/api`
+export const API = `http://localhost:3000/api`;

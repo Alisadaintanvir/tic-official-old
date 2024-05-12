@@ -12,24 +12,26 @@ import Feature from "../component/section/feature";
 import Clients from "../component/section/clients";
 import Event from "../component/section/event";
 import Offer from "../component/section/offer";
+import Hero from "../component/section/Hero";
 
 const Home = () => {
-    return (
-        <Fragment>
-            <Header />
-            <Banner />
-            <Sponsor />
-            <Feature />
-            <Course />
-            <About />
-            <Offer/>
-            <Event/>
-            <Student />
-            <Clients />
-            <Achievement />
-            <Footer />
-        </Fragment>
-    );
-}
- 
+  return (
+    <>
+      <Header />
+      <Banner />
+      <Hero />
+      <Sponsor />
+      <Feature />
+      <Course />
+      <About />
+      <Offer />
+      <Event />
+      <Student />
+      <Clients />
+      <Achievement />
+      <Footer />
+    </>
+  );
+};
+
 export default Home;
