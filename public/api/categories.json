@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "633524fabf4ea875b2b99b58"
+  },
+  "title": "Web Development",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664427258017"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664427258017"
+    }
+  },
+  "__v": 0,
+  "slug": "web-development"
+},{
+  "_id": {
+    "$oid": "63352ad59cbccce2b8793244"
+  },
+  "title": "Graphics Design",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664428757056"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664428757056"
+    }
+  },
+  "__v": 0,
+  "slug": "graphics-design"
+},{
+  "_id": {
+    "$oid": "633be77a2213723529f14a8a"
+  },
+  "title": "Autocad",
+  "description": "Autocade",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664870266440"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664870266440"
+    }
+  },
+  "__v": 0,
+  "slug": "autocad"
+},{
+  "_id": {
+    "$oid": "633be91b16c8ce3637c0c657"
+  },
+  "title": "Digital Marketing",
+  "description": "Digital Marketing",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1664870683825"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1664870683825"
+    }
+  },
+  "__v": 0,
+  "slug": "digital-marketing"
+},{
+  "_id": {
+    "$oid": "6384496c63d48f5ce0174149"
+  },
+  "title": "App Development",
+  "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an \"application-like\" experience within a web browser.",
+  "metadescription": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669613933008"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669613933008"
+    }
+  },
+  "__v": 0,
+  "slug": "app-development"
+},{
+  "_id": {
+    "$oid": "63844a75a72d42984f0dbe78"
+  },
+  "title": "Microsoft Office",
+  "description": "Microsoft Office, or simply Office, is the former name of a family of client software, server software, and services developed by Microsoft. It was first announced by Bill Gates on August 1, 1988, at COMDEX in Las Vegas. ",
+  "metadescription": "Microsoft Office, or simply Office, is the former name of a family of client software,",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669614197821"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669614197821"
+    }
+  },
+  "slug": "microsoft-office",
+  "__v": 0
+}]

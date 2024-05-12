@@ -1,0 +1,1 @@
+export const API = `https://ticlimited.com.bd/api`
